@@ -64,4 +64,5 @@ TCP和UDP提供不同的服务，TCP提供一种面向连接、可靠的字节�
 ### 3.3 TCP的半关闭
 TCP提供了连接的一段在结束它的发送后还能接受来自另一端数据的能力，这就是所谓的半关闭
 如果应用程序不调用close而调用shutdown，且第2个参数值为1，则插口的API支持半关闭。然而，大多数的应用程序通过调用close终止两个方向的连接
-   
+![关闭示例图](https://github.com/wduac/-/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/images/44265fef54d0af9a4f25af7e78179da.png)
+
