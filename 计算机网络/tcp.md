@@ -19,4 +19,4 @@ TCP和UDP提供不同的服务，TCP提供一种面向连接、可靠的字节�
 2.而且TCP对字节流的内容不作任何解释。也就是说，他不知道传输的数据字节流是二进制，还是ASCII字符还是别的，这些由双方应用层解释。
 
 ## TCP的首部
-![IP和TCP首部]https://github.com/wduac/-/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/images/cefc7d516c81f3d46634f1670ac1edc.png
+![IP和TCP首部](https://github.com/wduac/-/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/images/cefc7d516c81f3d46634f1670ac1edc.png)
